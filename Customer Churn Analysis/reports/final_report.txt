@@ -1,0 +1,11 @@
+
+Customer Churn Analysis – Key Insights
+
+1. Customers with lower tenure are more likely to churn.
+2. Higher monthly charges slightly increase churn probability.
+3. Younger customers show higher churn tendency.
+
+Recommendations:
+- Improve onboarding experience for new customers
+- Offer discounts for high monthly charge customers
+- Target retention campaigns for high-risk segments
